@@ -5,5 +5,6 @@
 {"id":1790951777715.4854,"amt":64,"cat":"Food","note":"sevel tercinta dinner","date":"2026-10-02","pay":"Cash","u":1790951777715},
 {"id":1790956009913.3145,"amt":57,"cat":"Food","note":"banan","date":"2026-10-02","pay":"Cash","u":1790956009913},
 {"id":1791007170603.3057,"amt":90,"cat":"Food","note":"apek tongseng nasgor","date":"2026-10-03","pay":"Cash","u":1791016375042},
-{"id":1791008757352.3687,"amt":100,"cat":"Other","note":"yoyoka topup","date":"2026-10-03","pay":"Cash","u":1791016371101}
+{"id":1791008757352.3687,"amt":100,"cat":"Other","note":"yoyoka topup","date":"2026-10-03","pay":"Cash","u":1791016371101},
+{"id":1791030993612.124,"type":"topup","card":"Yoyoka","amt":100,"cat":"Top-up","pay":"Yoyoka","date":"2026-10-03","u":1791030993612}
 ]}
